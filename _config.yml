@@ -1,0 +1,14 @@
+layout_spectrum: 0.6093205402139574
+typography_spectrum: 0.04375937138684094
+color:
+  brandStrength: 0.9251105149742216
+  lightness: 0.7428647042252123
+  saturation: 0.00023927283473312855
+  rhythmicContrast: 0.33112382399849594
+  brandColors:
+    - '#FFFFFF'
+    - '#B3AFAA'
+    - '#8A8855'
+    - '#417983'
+    - '#253426'
+name: sayoshi
